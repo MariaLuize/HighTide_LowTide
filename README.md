@@ -1,17 +1,15 @@
 # Workflow para criação de Mosaicos Landsat considerando mecanismos de maré
 
 
-## Google Colab
-* [PUBLIC - 00_Agregacao_boiasMarinha_1985-2019.ipynb](https://colab.research.google.com/drive/1qXYZ1jh--DkeFYRBoCJrnmoNxtk2-wG7?usp=sharing)
-	- https://colab.research.google.com/drive/1qXYZ1jh--DkeFYRBoCJrnmoNxtk2-wG7?usp=sharing
+## 1 - Google Colab
+Substeps
+* 1.1 [PUBLIC - 00_Agregacao_boiasMarinha_1985-2019.ipynb](https://colab.research.google.com/drive/1qXYZ1jh--DkeFYRBoCJrnmoNxtk2-wG7?usp=sharing)
+* 1.2 Upload to GEE of csv's created in PUBLIC - 00_Agregacao_boiasMarinha_1985-2019.ipynb, as seen in (code)[https://code.earthengine.google.com/?asset=users/MariaLuizeSolvedCurso/Artigo_praias/Tabuas_naoPrecessadas
 
-* Upload to GEE of csv's created in (PUBLIC)00_Agregacao_boiasMarinha_1985-2019.ipynb
-	- https://code.earthengine.google.com/?asset=users/MariaLuizeSolvedCurso/Artigo_praias/Tabuas_naoPrecessadas
+* 1.3 [PUBLIC - 01_Boias_especificacao_status_toGEE.ipynb](https://colab.research.google.com/drive/1UmPge7SQ2pKbu2ZJ7yENX_9B_hutAK1n?usp=sharing)
 
-* [PUBLIC - 01_Boias_especificacao_status_toGEE.ipynb](https://colab.research.google.com/drive/1UmPge7SQ2pKbu2ZJ7yENX_9B_hutAK1n?usp=sharing)
-	- https://colab.research.google.com/drive/1UmPge7SQ2pKbu2ZJ7yENX_9B_hutAK1n?usp=sharing
-
-## GEE
+## 2 - GEE
+Substeps
 01_Boias_especificacao_status_toGEE.ipynb upload FeatCollections_Individual_Buoys of each year to GEE
 * 00_Join_Individual_Buoys_FeatureCollection
 	-https://code.earthengine.google.com/ba1275df59cdf535b98ae9955b3479cb

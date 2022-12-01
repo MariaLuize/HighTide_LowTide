@@ -1,8 +1,8 @@
-# Workflow para criação de Mosaicos Landsat considerando mecaîsmos de maré
+# Workflow para criação de Mosaicos Landsat considerando mecanismos de maré
 
 
-Google Colab:
-* (PUBLIC)00_Agregacao_boiasMarinha_1985-2019.ipynb
+## Google Colab
+* ((PUBLIC)00_Agregacao_boiasMarinha_1985-2019.ipynb)[https://colab.research.google.com/drive/1qXYZ1jh--DkeFYRBoCJrnmoNxtk2-wG7?usp=sharing]
 	- https://colab.research.google.com/drive/1qXYZ1jh--DkeFYRBoCJrnmoNxtk2-wG7?usp=sharing
 
 * Upload to GEE of csv's created in (PUBLIC)00_Agregacao_boiasMarinha_1985-2019.ipynb
@@ -11,7 +11,7 @@ Google Colab:
 * (PUBLIC)01_Boias_especificacao_status_toGEE.ipynb 
 	- https://colab.research.google.com/drive/1UmPge7SQ2pKbu2ZJ7yENX_9B_hutAK1n?usp=sharing
 
-GEE:
+## GEE
 01_Boias_especificacao_status_toGEE.ipynb upload FeatCollections_Individual_Buoys of each year to GEE
 * 00_Join_Individual_Buoys_FeatureCollection
 	-https://code.earthengine.google.com/ba1275df59cdf535b98ae9955b3479cb

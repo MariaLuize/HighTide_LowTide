@@ -1,4 +1,4 @@
-# Workflow para criação de Mosaicos Landsat considerando mecanismos de maré
+# Landsat mosaics workflow, considering tide mechanisms
 
 
 ## 1 - Google Colab

@@ -8,7 +8,7 @@
 * Upload to GEE of csv's created in (PUBLIC)00_Agregacao_boiasMarinha_1985-2019.ipynb
 	- https://code.earthengine.google.com/?asset=users/MariaLuizeSolvedCurso/Artigo_praias/Tabuas_naoPrecessadas
 
-* (PUBLIC)01_Boias_especificacao_status_toGEE.ipynb 
+* [PUBLIC - 01_Boias_especificacao_status_toGEE.ipynb](https://colab.research.google.com/drive/1UmPge7SQ2pKbu2ZJ7yENX_9B_hutAK1n?usp=sharing)
 	- https://colab.research.google.com/drive/1UmPge7SQ2pKbu2ZJ7yENX_9B_hutAK1n?usp=sharing
 
 ## GEE

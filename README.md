@@ -1,4 +1,4 @@
-# Landsat mosaics workflow, considering tide mechanisms
+# Landsat mosaics, considering tide mechanisms
 
 
 ## 1 - Google Colab
